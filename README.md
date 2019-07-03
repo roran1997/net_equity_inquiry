@@ -1,0 +1,2 @@
+# net_equity_inquiry
+查询postgresql数据库进行日常净权益统计
